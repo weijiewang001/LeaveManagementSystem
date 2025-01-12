@@ -8,3 +8,4 @@ namespace LeaveManagementSystem.Web.Models
         public DateTime? DateOfBirth{ get; set; }
     }
 }
+
